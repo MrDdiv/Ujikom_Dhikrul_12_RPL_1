@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/drawable-v24/buttonstyle.xml" value="0.3828125" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/drawable/edittextstyle.xml" value="0.3828125" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.3828125" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.23560910307898258" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout-w936dp/activity_login.xml" value="0.275" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_datakeripik.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_datapenjualan.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_homepage.xml" value="0.33" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_inputkeripik.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_lihatbarang.xml" value="0.2" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_listitembarang.xml" value="0.2760416666666667" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_login2.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_menudanjeniskeripik.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_tampiltransaksi.xml" value="0.33" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/layout/activity_transaksi.xml" value="0.36666666666666664" />
+        <entry key="..\:/UKK ANDROID/12 RPL 1/James Tauhid/app/src/main/res/menu/listmenu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
